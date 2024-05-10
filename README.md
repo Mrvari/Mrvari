@@ -27,7 +27,7 @@ I'm a computer engineer specializing in full-stack development and applied data 
 #
 
 ### Contact me 📥
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt='Gmail' height='40'>](mailto:arimerve95@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt='Gmail' height='38'>](mailto:arimerve95@gmail.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/merveeari/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt='Instagram' height='40'>](https://www.instagram.com/merve_ari_/)
 
