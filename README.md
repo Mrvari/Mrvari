@@ -25,6 +25,7 @@ I'm a computer engineer specializing in full-stack development and applied data 
 <br />
 
 #
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvari&hide_progress=true">
 
 ### Contact me 📥
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt='Gmail' height='38'>](mailto:arimerve95@gmail.com)
