@@ -2,7 +2,7 @@
 
 # 👩‍💻 Merve Arı
 
-I'm a computer engineer specializing in full-stack development and applied data science. I develop projects that integrate both skill sets, leveraging technology to create innovative solutions
+I'm a computer engineer specializing in backend development. I develop projects that integrate both skill sets, leveraging technology to create innovative solutions
 
 ### 🧰 Languages and Tools
 
